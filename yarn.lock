@@ -3574,9 +3574,9 @@ joi-postalcode@^1.0.0:
   dependencies:
     postal-codes-js "^1.0.0"
 
-joi@^13.6.0:
-  version "13.7.0"
-  resolved "https://registry.yarnpkg.com/joi/-/joi-13.7.0.tgz#cfd85ebfe67e8a1900432400b4d03bbd93fb879f"
+joi@^14.0.2:
+  version "14.0.2"
+  resolved "https://registry.yarnpkg.com/joi/-/joi-14.0.2.tgz#b8116fa85d35bf0be5ab885a5afb0201882d7e43"
   dependencies:
     hoek "5.x.x"
     isemail "3.x.x"
